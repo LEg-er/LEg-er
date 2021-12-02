@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LEg-er
-- 👀 I’m interested in eletronic design, maybe some about power eletronic and automotive electronics or something punk
-- 🌱 I’m currently learning how to design a remote-control car work with mecanum wheel and Vienna rectification
-- 💞️ I’m looking to collaborate on funny eletronic design
+- 👀 I’m a EE dog. Now study at Nanjing University of Post and Telecommunication. I work in teaching building 3-118 of Xianlin campus. I'm looking forward to meet you 🐶🐶🐶
+- 🌱 I’m currently learn to write Blog to record my projects and some learning resources🐷🐷🐷
+- 💞️ I’m looking to collaborate on embedded system and power eletronic.
 - 📫 How to reach me, well my study email address:cairx_study@163.com. and my QQ number:1849571793
 - welcome friendly technical communicate！
 
